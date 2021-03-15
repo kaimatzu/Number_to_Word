@@ -9,4 +9,5 @@ int main()
     getline(cin, x);
 
     cout << debug.name_to_num(x) << endl;
+    system("pause");
 }
